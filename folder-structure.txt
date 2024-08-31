@@ -1,0 +1,25 @@
+/your_project
+├── app/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── routes/
+│   │   ├── __init__.py
+│   │   ├── users.py
+│   ├── models/
+│   │   ├── __init__.py
+│   │   ├── user_model.py
+│   ├── services/
+│   │   ├── __init__.py
+│   │   ├── user_service.py
+│   ├── utils/
+│   │   ├── __init__.py
+│   │   ├── db.py
+│   │   ├── helpers.py
+│
+├── instance/
+│   ├── config.py
+│
+├── run.py
+├── requirements.txt
+├── .env
+└── .gitignore
